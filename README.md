@@ -11,10 +11,10 @@
 7. When done with your task, type 3 to exit the program.
 # Version History
 - Version 1.00
-  *Implement Sign in and Login system
-  *Implement Password Strength Checker
-  *Implement Message Encrypter
-  *Implement Message Decrypter
+  - Implement Sign in and Login system
+  - Implement Password Strength Checker
+  - Implement Message Encrypter
+  - Implement Message Decrypter
 #License
  Copyright 2024 Gian Rivera
 
