@@ -1,6 +1,6 @@
 # Caesar-Cipher Ver 1.00
 # Introduction
-- This solution allows users that are logged in to encrypt messages with the caesar cipher, and then allows them to decipher their message.
+- This solution allows users that are logged in to encrypt messages with the caesar cipher, and then allows them to decrypt their message.
 # How to use
 1. First, the user must sign in to use the caesar cipher by typing 1 and entering a username and password.
 2. Next, you must login with the credentials that the user inputted by typing 2 in the menu.
